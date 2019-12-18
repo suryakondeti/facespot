@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4589f0b1-a8be-4b5b-8c92-616614851861" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_recognition/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_recognition/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +20,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1V7YEx9WxvyTsfDcjK0cdHMvypL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -126,14 +127,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="563" y="263" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576614989846">
+    <state x="563" y="263" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576688804114">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="563" y="263" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.920@0.0.1707.920" timestamp="1576614989846" />
+    <state x="563" y="263" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.920@0.0.1707.920" timestamp="1576688804114" />
     <state x="364" y="103" key="SettingsEditor" timestamp="1576606026413">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="364" y="103" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1576606026413" />
+    <state x="947" y="94" width="666" height="732" key="dock-window-1" timestamp="1576688863774">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="947" y="94" width="666" height="732" key="dock-window-1/0.0.1707.920@0.0.1707.920" timestamp="1576688863774" />
     <state x="549" y="65" width="609" height="789" key="find.popup" timestamp="1576606372337">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
