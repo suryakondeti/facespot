@@ -37,6 +37,10 @@ Verify the deployment by navigating to: (your domain name in deployment mode)
 ```sh
 127.0.0.1:8000
 ```
+### Instructions
+* A new folder called "user_images" will be created under the media folder. All Images will be stored and referenced from this user_images folder
+* After detecting faces, the title of the web page (the browser tab) will display the number of faces found
+* For questions/comments please email me at skondeti@purdue.edu or suryapkondeti@gmail.com
 
 ### Development
 Want to contribute? Great!
