@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4589f0b1-a8be-4b5b-8c92-616614851861" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/face_recognition/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_recognition/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
