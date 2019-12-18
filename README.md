@@ -11,7 +11,7 @@ FaceSpot uses a number of open source projects to work properly:
 * [OpenCV]
 * [Intel's Cascade Classifier]
 
-And of course Dillinger itself is open source with a [public repository] on GitHub.
+And of course FaceSpot itself is open source with a public repo on GitHub.
 ### Installation
 
 FaceSpot requires many modules to run.
