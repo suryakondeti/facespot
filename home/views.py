@@ -39,10 +39,8 @@ def give_random():
 def process(file_name):
     try:
         imagePath = os.path.join(BASE_DIR, "media/user_images/"+file_name)
-        #cascPath = os.path.join(BASE_DIR, "media/haarcascade_frontalface_default.xml")
         faceCascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
         image = cv2.imread(imagePath)
-        #cv2.imshow("Faces found", image)
         gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
         faces = faceCascade.detectMultiScale(
             gray,
